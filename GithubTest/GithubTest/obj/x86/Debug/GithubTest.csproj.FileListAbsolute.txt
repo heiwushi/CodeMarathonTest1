@@ -5,3 +5,6 @@ H:\C#\GithubTest\GithubTest\obj\x86\Debug\GithubTest.exe
 H:\C#\GithubTest\GithubTest\obj\x86\Debug\GithubTest.pdb
 C:\Documents and Settings\Administrator\My Documents\GitHub\CodeMarathonTest1\GithubTest\GithubTest\obj\x86\Debug\GithubTest.exe
 C:\Documents and Settings\Administrator\My Documents\GitHub\CodeMarathonTest1\GithubTest\GithubTest\obj\x86\Debug\GithubTest.pdb
+C:\Documents and Settings\Administrator\My Documents\GitHub\CodeMarathonTest1\GithubTest\GithubTest\bin\Debug\GithubTest.exe
+C:\Documents and Settings\Administrator\My Documents\GitHub\CodeMarathonTest1\GithubTest\GithubTest\bin\Debug\GithubTest.pdb
+C:\Documents and Settings\Administrator\My Documents\GitHub\CodeMarathonTest1\GithubTest\GithubTest\obj\x86\Debug\ResolveAssemblyReference.cache

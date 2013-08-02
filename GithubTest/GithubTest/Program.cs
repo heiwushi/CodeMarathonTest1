@@ -129,7 +129,7 @@ namespace GithubTest
             {
             	Console.WriteLine(ex.Message);
             }
-            Console.WriteLine("Finished to create output.txt file!");
+            Console.WriteLine("Finished !!!");
             Console.ReadKey();
 
         }
